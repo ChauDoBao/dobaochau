@@ -1,0 +1,106 @@
+:root { 
+  --black: #000000;
+  --old-brick: #8f1423;
+  --westar: #dedad0;
+ 
+  --font-size-l: 45px;
+  --font-size-m: 30px;
+  --font-size-xl: 55px;
+  --font-size-xxl: 60px;
+  --font-size-xxxl: 75px;
+  --font-size-xxxxl: 80px;
+  --font-size-xxxxxl: 110px;
+ 
+  --font-family-acumin_vf-bold: "Acumin VF-Bold", Helvetica;
+  --font-family-acumin_vf-bolditalic: "Acumin VF-BoldItalic", Helvetica;
+  --font-family-acumin_vf-semibolditalic: "Acumin VF-SemiboldItalic", Helvetica;
+  --font-family-snell_roundhand-black: "Snell Roundhand-Black", Helvetica;
+  --font-family-snell_roundhand-bold: "Snell Roundhand-Bold", Helvetica;
+}
+.acuminvf-bold-old-brick-30px {
+  color: var(--old-brick);
+  font-family: var(--font-family-acumin_vf-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.snellroundhand-bold-old-brick-45px {
+  color: var(--old-brick);
+  font-family: var(--font-family-snell_roundhand-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.acuminvf-bold-old-brick-75px {
+  color: var(--old-brick);
+  font-family: var(--font-family-acumin_vf-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.snellroundhand-bold-old-brick-110px {
+  color: var(--old-brick);
+  font-family: var(--font-family-snell_roundhand-bold);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.snellroundhand-bold-old-brick-75px {
+  color: var(--old-brick);
+  font-family: var(--font-family-snell_roundhand-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.acuminvf-bold-old-brick-55px {
+  color: var(--old-brick);
+  font-family: var(--font-family-acumin_vf-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.snellroundhand-black-old-brick-80px {
+  color: var(--old-brick);
+  font-family: var(--font-family-snell_roundhand-black);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.acuminvf-bolditalic-bold-old-brick-60px {
+  color: var(--old-brick);
+  font-family: var(--font-family-acumin_vf-bolditalic);
+  font-size: var(--font-size-xxl);
+  font-style: italic;
+  font-weight: 700;
+}
+
+.snellroundhand-bold-old-brick-85px {
+  color: var(--old-brick);
+  font-family: var(--font-family-snell_roundhand-bold);
+  font-size: 85px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.snellroundhand-bold-westar-100px {
+  color: var(--westar);
+  font-family: var(--font-family-snell_roundhand-bold);
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.acuminvf-bold-westar-50px {
+  color: var(--westar);
+  font-family: var(--font-family-acumin_vf-bold);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+}
